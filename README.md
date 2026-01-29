@@ -69,8 +69,11 @@ Trabajo con arquitecturas escalables, código mantenible y buenas prácticas, pr
 
 ---
 
-## 📊 GitHub
-![](https://github-profile-trophy.vercel.app/?username=elkisser&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=elkisser&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=elkisser&layout=compact&theme=tokyonight&hide_border=true)
+![](https://streak-stats.demolab.com?user=elkisser&theme=tokyonight&hide_border=true)
 
 ---
 
