@@ -69,13 +69,6 @@ Trabajo con arquitecturas escalables, código mantenible y buenas prácticas, pr
 
 ---
 
-## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=elkisser&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elkisser&layout=compact&theme=tokyonight&hide_border=true" />
-
----
-
 ## 📫 Sobre mí
 Siempre aprendiendo, mejorando arquitectura y construyendo productos reales.  
 Abierto a colaboraciones y oportunidades profesionales 🚀
